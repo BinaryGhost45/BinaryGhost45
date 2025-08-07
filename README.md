@@ -32,7 +32,7 @@ Hardware: Raspberry Pi, Arduino, DIY rigs, home servers
 
 ### 🌐 Elsewhere
 
-- 🧠 Dev X (This): [@BinaryGhost45](https://x.com/BinaryGhost45)
+- 🧠 Dev X (This): [@BinaryGhost45](https://x.com/Binary_Ghost45)
 
 ---
 
