@@ -11,7 +11,6 @@
 - 🔬 Building tools that blend software and hardware
 - 🧮 Exploring AI, image enhancement, and real-time processing
 - 🎮 Game Developer by heart – Unity & Godot
-- 🛠 Maker of cool stuff like star trackers and AI-powered image tools
 
 ---
 
