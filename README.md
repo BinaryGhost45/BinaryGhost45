@@ -24,7 +24,8 @@
 
 ### 🧠 Tech Stack
 
-`Python` `C++` `C#` `Unity` `OpenCV` `NumPy` `Mojo 🔥`  
+`Python` `C++` `C#` `Unity` `OpenCV` `NumPy` `Mojo 🔥`  `Java` `JavaScript`
+
 Hardware: Raspberry Pi, Arduino, DIY rigs, home servers
 
 ---
