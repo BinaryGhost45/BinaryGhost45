@@ -34,10 +34,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinaryGhost45&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="A.D's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryGhost45&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-</div>
+
 
 <br/>
 
@@ -51,6 +48,5 @@
   
 ### ⚡ Drop a line or check out my repos. Let's build something cool!
   
-[![Visitor Count](https://profile-counter.glitch.me/BinaryGhost45/count.svg)](https://github.com/BinaryGhost45)
 
 </div>
