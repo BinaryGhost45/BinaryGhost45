@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/BinaryGhost45?style=for-the-badge&color=21262d&labelColor=161b22)](https://github.com/BinaryGhost45)
 
 ---
-*"Gamer turned game developer — loving retro games, simulations, and building in public."*
+*Gamer turned game developer  loving retro games, simulations, and building in public.*
 ---
 
 </div>
