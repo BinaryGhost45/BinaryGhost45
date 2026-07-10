@@ -1,37 +1,38 @@
 import datetime
 
-
-persona_art = r"""
-       .--.
-      /    \
-     |      |
-      \    /
-       '--'
-    /|      |\
-   / |      | \
-     |______|
-     |  ||  |
-     |  ||  |
-     |__||__|
+# --- Ultra-Cool Cyberpunk HUD Terminal ---
+terminal_hud = r"""
+┌────────────────────────────────────────────────────────┐
+│  🤖 SYSTEM: ONLINE         >> DEPLOY_SUCCESS           │
+│  👻 IDENTITY: BINARY_GHOST >> ALIAS: A.D               │
+│  ⚙️  CORE_ENGINE: ACTIVE    >> REFRESH_RATE: DAILY       │
+└────────────────────────────────────────────────────────┘
+          \
+           \   🚀 SYSTEM GREETING MODE: ACTIVE
+            \      "Welcome to my digital sandbox."
+             \
+              ■──────────────■
+              │  O   [💻]    │
+              │ /│\          │
+              │ / \          │
+              ■──────────────■
 """
 
 # --- The Standard Data for your Profile ---
-# (A simplified version of your data stack)
 my_stack = """
-- **C#, Python, Java**
-- Gamer turned game developer
-- Exploring AI projects
+ ⚡ [C#]     >>  Game logic, architectural engines, and custom simulations.
+ ⚡ [Python] >>  Automation scripts, dynamic text parsing, and AI playground frameworks.
+ ⚡ [Java]   >>  Core software fundamentals and system engineering patterns.
 """
 
-# --- Create the Welcome Greeting and Combine Everything ---
-now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-greeting_text = f"\n### Hi, I'm BinaryGhost45! 👋\n#### Welcome to my GitHub Profile! (Updated: {now})\n"
+now = datetime.datetime.now().strftime("%Y-%m-%d @ %H:%M:%S")
 
-# Wrap the text in a code block for proper formatting
-complete_data = f"```text\n{persona_art}\n{greeting_text}\n```\n### About Me\n{my_stack}\n[Visit my portfolio repository](https://binaryghost45.github.io/BinaryGhost45-Unity_Store_-portfolio_Website/)"
+# --- Super Cool Cyberpunk Dashboard Generation ---
+complete_data = f"""
+<div align="center">
 
-# --- Write the final data to the README.md ---
-with open("README.md", "w") as file:
-    file.write(complete_data)
+# 🌌 B I N A R Y G H O S T 4 5 🌌
+` 🪐 AUTOMATED PROFILE INTERFACE v2.6 `
 
-print("Profile generated!")
+```ini
+{terminal_hud}
